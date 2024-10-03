@@ -1,0 +1,35 @@
+[
+    {
+        "ID": 1,
+        "name": "user1",
+        "password": 1231,
+        "phone_number": "011",
+        "mail": "b@gmail.com",
+        "gender": "male",
+        "age": 20,
+        "city": "cairo",
+        "balance": 34306.123
+    },
+    {
+        "ID": 2,
+        "name": "user2",
+        "password": 1232,
+        "phone_number": "010",
+        "mail": "m@gmail.com",
+        "gender": "male",
+        "age": 25,
+        "city": "cairo",
+        "balance": 3120.0
+    },
+    {
+        "ID": 3,
+        "name": "user3",
+        "password": 1245,
+        "phone_number": "011",
+        "mail": "g@gmail.com",
+        "gender": "female",
+        "age": 23,
+        "city": "cairo",
+        "balance": 1300.0
+    }
+]
